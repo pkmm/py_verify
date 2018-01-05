@@ -6,7 +6,7 @@ from cStringIO import StringIO
 
 from PIL import Image
 
-from lib.svmutil import *
+from libsvm.python.svmutil import *
 
 import os
 
